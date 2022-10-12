@@ -1,3 +1,4 @@
 # Mini-Menu
 
-![title-pic](https://github.com/SaidaDev/Balls/blob/Mini-Menu/mini_menu.JPG?raw=true)
+![title-pic](https://github.com/SaidaDev/Mini-Menu/blob/main/mini_menu.JPG)
+
